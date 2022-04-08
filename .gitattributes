@@ -1,4 +1,5 @@
 db_all_param filter=lfs diff=lfs merge=lfs -text
+dict.pickle filter=lfs diff=lfs merge=lfs -text
 *.ipynb filter=lfs diff=lfs merge=lfs -text
 *.md filter=lfs diff=lfs merge=lfs -text
 *.py filter=lfs diff=lfs merge=lfs -text
